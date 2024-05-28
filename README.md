@@ -1,3 +1,3 @@
 # danisvaliev001.github.io
 
-My webpage, redirect to page stored on S3.
+this is my web page on _GitHub Pages_, it will be redirect to original page stored on MEGA S3.
